@@ -1,5 +1,5 @@
 project_name = "JobDslName1"
-repo = "git@github.com:walterleonardo/jobDsl.git"
+repo = "git@github.com:walterleonardo/testDocker.git"
 repo_name = "jobDslName"
 
 
