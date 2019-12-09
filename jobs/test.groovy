@@ -1,4 +1,4 @@
-project_name = "JobDslName"
+project_name = "JobDslName1"
 repo = "git@github.com:walterleonardo/jobDsl.git"
 repo_name = "jobDslName"
 
